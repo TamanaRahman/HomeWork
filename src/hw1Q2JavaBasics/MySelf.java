@@ -7,6 +7,7 @@ package hw1Q2JavaBasics;
  * 
  */
 public class MySelf {
+	// just added a line
 
 	// i am creating single line comments
 	// main method is entry point for java

@@ -1,5 +1,4 @@
 package hw3Q2JavaVariables;
-
 public class AboutMe {
 	public String name = "Tamanna Rahman";
 	public byte age = 24;
