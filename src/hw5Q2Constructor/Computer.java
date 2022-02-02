@@ -22,6 +22,6 @@ public class Computer {
 		this.grade = grade;
 
 		System.out.println("My brand :" + brand + ",Model :" + model + ", Operating System :" + operatingSystem
-				+ ",Price is :" + price + ", Grade is :" + grade + ",Made in USA? Ans :" + madeInUSA);
+				+ ",Price is :" + price + ", Grade is :" + grade + ", and Made in USA? Ans :" + madeInUSA + "." );
 	}
 }
