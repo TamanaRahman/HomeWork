@@ -5,7 +5,7 @@ public class Employee {
 	private int age;
 	private char sex;
 	private boolean usCitizen;
-	
+
 	public String getName() {
 		return name;
 	}
@@ -27,8 +27,7 @@ public class Employee {
 	public boolean isUsCitizen() {
 		return usCitizen;
 	}
-	public void setusCitizen(boolean usCitizen) {
+	public void setUsCitizen(boolean usCitizen) {
 		this.usCitizen = usCitizen;
 	}
-
 }
