@@ -1,7 +1,7 @@
 package hw9Q3Abstraction;
     /*an abstract class used keyword extends regular and abstract 
     class only and implements more then one interface*/
-public abstract class MedicalSchool extends NursingSchool implements Hospital,College{
+    public abstract class MedicalSchool extends NursingSchool implements Hospital,College{
     public abstract void anatomyLap();
     public void biochemistryLab() {
     	System.out.println("This is from biochemistryLab non abstract method");
